@@ -1,5 +1,5 @@
-# match_resume.a1
-Match the resume with JD . Resume analysis with help of Generative AI
+# Movie Recomendation
+Gives movie recomendation based on your previous seen movies.
 
 ## Create the virtual Environment
 we will create a virtual environment and insatll all the packages mentioned in ``requirements.txt`` file
